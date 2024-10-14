@@ -10,7 +10,7 @@ html,body{
 }
 
 @font-face{
-    src: url(/fonts/OpenSans-Light.ttf);
+    src: url(fonts/OpenSans-Light.ttf);
     font-family: "Open Sans";
 }
 .center{
@@ -34,7 +34,7 @@ html,body{
     min-width: 1200px;
     width: 100%;
     height: 557px;
-    background-image: url('/images/header_bg.png');
+    background-image: url('images/header_bg.png');
     background-size: cover;
     background-position: center;
 }
